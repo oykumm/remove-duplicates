@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\REMOVE\REMOVE\bin\Debug\netcoreapp3.1\REMOVE.exe
+C:\Users\ASUS\source\repos\REMOVE\REMOVE\bin\Debug\netcoreapp3.1\REMOVE.deps.json
+C:\Users\ASUS\source\repos\REMOVE\REMOVE\bin\Debug\netcoreapp3.1\REMOVE.runtimeconfig.json
+C:\Users\ASUS\source\repos\REMOVE\REMOVE\bin\Debug\netcoreapp3.1\REMOVE.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\REMOVE\REMOVE\bin\Debug\netcoreapp3.1\REMOVE.dll
+C:\Users\ASUS\source\repos\REMOVE\REMOVE\bin\Debug\netcoreapp3.1\REMOVE.pdb
+C:\Users\ASUS\source\repos\REMOVE\REMOVE\obj\Debug\netcoreapp3.1\REMOVE.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\REMOVE\REMOVE\obj\Debug\netcoreapp3.1\REMOVE.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\REMOVE\REMOVE\obj\Debug\netcoreapp3.1\REMOVE.dll
+C:\Users\ASUS\source\repos\REMOVE\REMOVE\obj\Debug\netcoreapp3.1\REMOVE.pdb
+C:\Users\ASUS\source\repos\REMOVE\REMOVE\obj\Debug\netcoreapp3.1\REMOVE.csprojAssemblyReference.cache
